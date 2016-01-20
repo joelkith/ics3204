@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ICS 3204 - Computer Graphics
 
 This repository is meant to provide bootstrap code for the course ICS 3204 - Computer Graphics for [Strathmore Students](http://www.strathmore.edu/en/).
@@ -14,3 +15,8 @@ Instructions:
 [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 
 For some more information on how to fork and push to a repository, ["Forking Projects"](http://guides.github.com/overviews/forking/), ["Pushing Projects"](https://help.github.com/articles/pushing-to-a-remote/). Thanks! :sparkling_heart:
+=======
+# ics3204
+Computer Graphics Class
+Repository that will be viewed by the lecture for every of the updates we make.
+>>>>>>> 774f4274b32e298312e467b786ae7fc78d7e6fe6
